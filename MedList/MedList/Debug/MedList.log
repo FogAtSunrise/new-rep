@@ -1,0 +1,70 @@
+﻿  AddForm.cpp
+d:\new\new\medlist\medlist\addform.h(542): warning C4101: E: неиспользованная локальная переменная
+  DelStrMyForm.cpp
+d:\new\new\medlist\medlist\delstrmyform.h(188): warning C4101: E: неиспользованная локальная переменная
+  EditForm.cpp
+d:\new\new\medlist\medlist\editform.h(622): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(740): warning C4101: current_str: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(761): warning C4101: E: неиспользованная локальная переменная
+  MainForm.cpp
+d:\new\new\medlist\medlist\newfileadd.h(173): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\addform.h(542): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\delstrmyform.h(188): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(622): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(740): warning C4101: current_str: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(761): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\searchform.h(762): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(690): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\new\new\medlist\medlist\mainform.h(722): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\new\new\medlist\medlist\mainform.h(902): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(909): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(968): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(976): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1012): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1035): warning C4101: str: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1061): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1118): warning C4101: E: неиспользованная локальная переменная
+  MainFormForUser.cpp
+d:\new\new\medlist\medlist\searchform.h(762): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(375): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(382): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(442): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(449): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(521): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(529): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(563): warning C4101: E: неиспользованная локальная переменная
+  MyGameForm.cpp
+  NewFileAdd.cpp
+d:\new\new\medlist\medlist\newfileadd.h(173): warning C4101: E: неиспользованная локальная переменная
+  SearchForm.cpp
+d:\new\new\medlist\medlist\searchform.h(762): warning C4101: E: неиспользованная локальная переменная
+  vhod.cpp
+d:\new\new\medlist\medlist\newfileadd.h(173): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\addform.h(542): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\delstrmyform.h(188): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(622): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(740): warning C4101: current_str: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\editform.h(761): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\searchform.h(762): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(690): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\new\new\medlist\medlist\mainform.h(722): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+d:\new\new\medlist\medlist\mainform.h(902): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(909): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(968): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(976): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1012): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1035): warning C4101: str: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1061): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainform.h(1118): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(375): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(382): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(442): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(449): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(521): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(529): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\mainformforuser.h(563): warning C4101: E: неиспользованная локальная переменная
+d:\new\new\medlist\medlist\vhod.h(240): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AddForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MedList.vcxproj -> D:\new\new\MedList\Debug\MedList.exe
